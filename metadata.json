@@ -1,0 +1,7 @@
+{
+  "name": "StatementScanner Pro",
+  "description": "A high-performance bank statement OCR tool that extracts transaction data from images and generates structured CSV exports using Gemini 3 Pro's advanced vision capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
